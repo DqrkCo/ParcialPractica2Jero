@@ -1,4 +1,4 @@
-# Parcial2_PracticaJero
+# Parcial2Practica2Jero
 Gestión de tarjetas (JavaFX + MySQL)
 
 Es una app de escritorio hecha en Java con JavaFX y MySQL para crear y consultar tarjetas de débito y crédito de un titular.
